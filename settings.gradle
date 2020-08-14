@@ -1,2 +1,2 @@
-include ':app', ':ugckit', ':ugcvideorecorddemo', ':beautysettingkit'
+include ':app', ':ugckit', ':ugcvideorecorddemo', ':beautysettingkit', ':ugcvideoeditdemo'
 rootProject.name='demo0403_Video'
