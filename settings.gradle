@@ -1,0 +1,2 @@
+include ':app', ':ugckit', ':ugcvideorecorddemo', ':beautysettingkit'
+rootProject.name='demo0403_Video'
